@@ -1,7 +1,6 @@
 {
+  "version": 2,
   "images": [
-    "https://jpeg.org/images/jpeg-home.jpg",
-    "https://jpeg.org/images/jpeg2000-home.jpg",
     "https://jpeg.org/images/jpegdna-home.jpg"
   ]
 }
